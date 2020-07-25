@@ -1,0 +1,1 @@
+double click on the game.py file to play :D
